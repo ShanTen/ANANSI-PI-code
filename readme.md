@@ -6,7 +6,7 @@ ANANSI is a hexapod designed for search and rescue operations powered by the ST-
 
 ## What is this code?
 
-This is the code that that resides on a headless raspberry pi zero (w). Which is used to transmit to the [electron client](https://github.com/shanten/ANANSI-Electron-Client`).
+This is the code that that resides on a headless raspberry pi zero (w). Which is used to transmit to the [electron client](https://github.com/shanten/ANANSI-Electron-Client).
 
 ## Data Transmitted 
 
